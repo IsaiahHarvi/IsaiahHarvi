@@ -1,6 +1,6 @@
 # Isaiah Harville
 
-**`Software Engineer (B.S. Computer Science | Mathematics Minor)`**<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+**`Software Engineer (B.S. Computer Science | Mathematics Minor)`**
 
 #
 
