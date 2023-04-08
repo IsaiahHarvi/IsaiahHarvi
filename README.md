@@ -1,4 +1,4 @@
-# 🪐 Isaiah Harville
+# Isaiah Harville
 
 **`Software Engineer`**
 
