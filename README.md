@@ -8,6 +8,4 @@ div style="text-align: center;">
 </div>
 
 ### Languages and Tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-This should fix the issue and display the Python icon aligned to the left with the correct alt text.
