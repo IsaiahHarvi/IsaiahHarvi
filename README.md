@@ -1,6 +1,6 @@
 # Isaiah Harville
 
-**`Software Engineer (B.S. Computer Science | Mathematics Minor)`**
+**`Software Engineer (B.S. Computer Science | Mathematics Minor) Pronouns: He/Him/His`**
 
 #
 
