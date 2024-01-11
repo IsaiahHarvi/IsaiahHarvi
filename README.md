@@ -1,6 +1,6 @@
 # [Isaiah Harville](https://www.linkedin.com/in/isaiahharville/)
 
-**`Software Engineer (B.S. Computer Science)`**
+**`Computer Scientist / Software Engineer`**
 
 #
 
