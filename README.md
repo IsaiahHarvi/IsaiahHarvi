@@ -1,4 +1,4 @@
-# [Isaiah Harville](https://www.linkedin.com/in/isaiahharville/) <a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+# [Isaiah Harville](https://www.linkedin.com/in/isaiahharville/) <a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 **`Computer Scientist / Software Engineer`**
 
