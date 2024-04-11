@@ -1,8 +1,7 @@
 # [Isaiah Harville](https://www.linkedin.com/in/isaiahharville/) <a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
-**`Computer Scientist / Software Engineer`**
+**`Computer Scientist`**
 
-#
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
