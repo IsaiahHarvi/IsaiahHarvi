@@ -30,8 +30,6 @@
 
 
 #
-
-### Stats
-![Isaiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiahharvi&show_icons=true&theme=cobalt)
-
-gitlab >>>
+Note: This is a personal repository and does not track my contributions to corporate repositories.
+<!--- ### Stats -->
+<!--- ![Isaiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiahharvi&show_icons=true&theme=cobalt) -->
