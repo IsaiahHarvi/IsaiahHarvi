@@ -11,7 +11,8 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br><br><br>
-
+-
+[Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/99ff2b79c97b99504fe8adbe66b2bfd909d57369/Resume%20-%20Isaiah%20Harville_Public.pdf)
 ---
 
 ### Notable Work
