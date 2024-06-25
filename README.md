@@ -23,7 +23,7 @@
 
 <br><br><br>
 
-[Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/99ff2b79c97b99504fe8adbe66b2bfd909d57369/Resume%20-%20Isaiah%20Harville_Public.pdf)
+[Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/d2e5a8a59695a18aae86ad1e620f54d2c2099e14/Resume%20-%20Isaiah%20Harville_Public.pdf)
 ---
 
 ### Notable Work
