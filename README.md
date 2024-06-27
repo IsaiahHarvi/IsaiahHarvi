@@ -26,11 +26,11 @@
 [Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/d2e5a8a59695a18aae86ad1e620f54d2c2099e14/Resume%20-%20Isaiah%20Harville_Public.pdf)
 ---
 
-### Notable Work
-- [On Analog Computing with Applications for Deep Learning (Final Paper for CS-413)](https://github.com/IsaiahHarvi/CS-413/blob/main/Final%20Paper%20-%20On%20Analog%20Computing%20with%20Applications%20for%20Deep%20Learning.pdf)
+### Interesting Work
 - [Neural Network from Scratch](https://github.com/IsaiahHarvi/scratch-nn)
-- [CS-413 (Digital Computer Architecture)](https://github.com/IsaiahHarvi/CS-413)
-- [CS-330 (AI Algorithms)](https://github.com/IsaiahHarvi/CS-330)
+- [On Analog Computing with Applications for Deep Learning (Final Paper for CS-413)](https://github.com/IsaiahHarvi/CS-413/blob/main/Final%20Paper%20-%20On%20Analog%20Computing%20with%20Applications%20for%20Deep%20Learning.pdf)
+- [Poker Driver](https://github.com/IsaiahHarvi/poker)
+
 
 
 ---
