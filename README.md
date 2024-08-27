@@ -39,6 +39,6 @@
 
 
 #
-Note: This is a personal repository and does not track my contributions to corporate repositories.
+Note: This is a personal account and does not track my contributions to corporate or GitLab repositories.
 <!--- ### Stats -->
 <!--- ![Isaiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaiahharvi&show_icons=true&theme=cobalt) -->
