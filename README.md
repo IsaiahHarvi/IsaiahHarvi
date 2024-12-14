@@ -24,7 +24,7 @@
 ---
 ### Interesting Work
 - [Neural Network from Scratch](https://github.com/IsaiahHarvi/scratch-nn)
-- [Machine Learning Based Network Intrustion Detection Framework](https://github.com/IsaiahHarvi/NIDS)
+- [Machine Learning Based Network Intrusion Detection Framework](https://github.com/IsaiahHarvi/NIDS)
 - [On Analog Computing with Applications for Deep Learning (Final Paper for CS-413)](https://github.com/IsaiahHarvi/CS-413/blob/main/Final%20Paper%20-%20On%20Analog%20Computing%20with%20Applications%20for%20Deep%20Learning.pdf)
 
 
