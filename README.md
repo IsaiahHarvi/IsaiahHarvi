@@ -1,8 +1,11 @@
 # Isaiah R Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 **`Computer Scientist`**
+
 M.S. Computer Science, Machine Learning ('27)
+
 B.S. Computer Science                   ('24)
+
 
 ### Languages and Tools
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
