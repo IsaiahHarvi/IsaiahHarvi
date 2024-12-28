@@ -1,7 +1,7 @@
 # Isaiah R Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
-_M.S. Computer Science, Machine Learning ('27)  _
-_B.S. Computer Science  _
+_M.S. Computer Science, Machine Learning ('27)_  
+_B.S. Computer Science_  
 
 
 ### Languages and Tools
