@@ -1,4 +1,4 @@
-# Isaiah R Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+# Isaiah R. Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 _M.S. Computer Science, Machine Learning ('27)_  
 _B.S. Computer Science_  
@@ -21,7 +21,7 @@ _B.S. Computer Science_
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <br>
 
-### [Resume PDF](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/d2e5a8a59695a18aae86ad1e620f54d2c2099e14/Resume%20-%20Isaiah%20Harville_Public.pdf)
+### [Resume PDF](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/b46fa8db0697c70ae9b81277c618440b333ea604/Resume%20-%20Isaiah%20Harville.pdf)
 
 ---
 ### Interesting Work
