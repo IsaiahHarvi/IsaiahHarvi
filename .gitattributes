@@ -1,1 +1,4 @@
 Resume[[:space:]]-[[:space:]]Isaiah[[:space:]]Harville.pdf filter=lfs diff=lfs merge=lfs -text
+assets filter=lfs diff=lfs merge=lfs -text
+assets/gt.ico filter=lfs diff=lfs merge=lfs -text
+assets/uah.ico filter=lfs diff=lfs merge=lfs -text
