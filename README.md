@@ -19,7 +19,7 @@
 </div>
 <br>
 
-### [Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/b46fa8db0697c70ae9b81277c618440b333ea604/Resume%20-%20Isaiah%20Harville.pdf)
+### [Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/main/Resume%20-%20Isaiah%20Harville.pdf)
 
 ---
 ### Interesting Work
