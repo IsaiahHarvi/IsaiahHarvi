@@ -1,8 +1,5 @@
 # Isaiah R. Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
-<img align="left" width="20px" style="padding-right:7px;" src="assets/uah.ico"/>_M.S. Computer Science, Machine Learning ('27)_  
-<img align="left" width="18px" style="padding-right:7px;" src="assets/gt.ico"/>_B.S. Computer Science_
-
 <div style="display: flex; gap: 1px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white"/>
