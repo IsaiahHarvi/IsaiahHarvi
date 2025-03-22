@@ -1,4 +1,4 @@
-# Isaiah R. Harville<a href="https://www.linkedin.com/in/isaiahharville/" style="padding-right:10px;"><img align="right" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+# Isaiah R. Harville
 
 <div style="display: flex; gap: 1px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
