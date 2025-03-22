@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
 <br>
-
-### [Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/main/Resume%20-%20Isaiah%20Harville.pdf)
-
 ---
 ### Interesting Work
 - [Neural Network from Scratch](https://github.com/IsaiahHarvi/scratch-nn)
