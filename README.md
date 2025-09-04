@@ -28,7 +28,7 @@
 - [On Analog Computing with Applications for Deep Learning](https://github.com/IsaiahHarvi/CS-413/blob/main/Final%20Paper%20-%20On%20Analog%20Computing%20with%20Applications%20for%20Deep%20Learning.pdf)
 
 
-#### [View my Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/main/Resume%20-%20Isaiah%20Harville.pdf)
+#### [View my Resume](https://github.com/IsaiahHarvi/IsaiahHarvi/blob/main/Resume_Isaiah_Harville.pdf)
 
 
 <div style="text-align: center; width: 100%;">
